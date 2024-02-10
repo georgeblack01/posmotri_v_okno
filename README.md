@@ -14,7 +14,7 @@ GitHub
 
 [https://github.com/georgeblack01/posmotri_v_okno.git](https://github.com/georgeblack01/posmotri_v_okno.git)
 
-[Проект: Оно-тебе-надо](https://georgeblack01.github.io/posmotri_v_okno/)
+[Проект: По-смотри в окно](https://georgeblack01.github.io/posmotri_v_okno/)
 
 Вёрстка по макету в Figma.
 
